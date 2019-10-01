@@ -29,7 +29,7 @@ Now create your repo on github.com and push it. It'll take a minute or two, but 
 Cleaning up
 -----------
 
-To remove this nonsense, just delete your repo from github.
+To remove this nonsense, just delete your repo from github.Yes,you heard it right
 
 
 Disclaimer
